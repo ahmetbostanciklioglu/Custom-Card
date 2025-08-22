@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct Custom_CardApp: App {
+struct BlurCardApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BlurCardView()
         }
     }
 }

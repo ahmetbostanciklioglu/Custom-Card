@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		2ADFEB6A2E57BE35004F75D7 /* Custom Card */ = {
+		2ADFEB6A2E57BE35004F75D7 /* BlurCardApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Custom Card";
+			path = BlurCardApp;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		2ADFEB5F2E57BE35004F75D7 = {
 			isa = PBXGroup;
 			children = (
-				2ADFEB6A2E57BE35004F75D7 /* Custom Card */,
+				2ADFEB6A2E57BE35004F75D7 /* BlurCardApp */,
 				2ADFEB692E57BE35004F75D7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				2ADFEB6A2E57BE35004F75D7 /* Custom Card */,
+				2ADFEB6A2E57BE35004F75D7 /* BlurCardApp */,
 			);
 			name = "Custom Card";
 			packageProductDependencies = (
