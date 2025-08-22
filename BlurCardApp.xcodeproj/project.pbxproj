@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		2ADFEB682E57BE35004F75D7 /* Custom Card.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Custom Card.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2ADFEB682E57BE35004F75D7 /* BlurCardApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlurCardApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		2ADFEB692E57BE35004F75D7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2ADFEB682E57BE35004F75D7 /* Custom Card.app */,
+				2ADFEB682E57BE35004F75D7 /* BlurCardApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2ADFEB672E57BE35004F75D7 /* Custom Card */ = {
+		2ADFEB672E57BE35004F75D7 /* BlurCardApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2ADFEB732E57BE36004F75D7 /* Build configuration list for PBXNativeTarget "Custom Card" */;
+			buildConfigurationList = 2ADFEB732E57BE36004F75D7 /* Build configuration list for PBXNativeTarget "BlurCardApp" */;
 			buildPhases = (
 				2ADFEB642E57BE35004F75D7 /* Sources */,
 				2ADFEB652E57BE35004F75D7 /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				2ADFEB6A2E57BE35004F75D7 /* BlurCardApp */,
 			);
-			name = "Custom Card";
+			name = BlurCardApp;
 			packageProductDependencies = (
 			);
 			productName = "Custom Card";
-			productReference = 2ADFEB682E57BE35004F75D7 /* Custom Card.app */;
+			productReference = 2ADFEB682E57BE35004F75D7 /* BlurCardApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2ADFEB632E57BE35004F75D7 /* Build configuration list for PBXProject "Custom Card" */;
+			buildConfigurationList = 2ADFEB632E57BE35004F75D7 /* Build configuration list for PBXProject "BlurCardApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2ADFEB672E57BE35004F75D7 /* Custom Card */,
+				2ADFEB672E57BE35004F75D7 /* BlurCardApp */,
 			);
 		};
 /* End PBXProject section */
@@ -305,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2ADFEB632E57BE35004F75D7 /* Build configuration list for PBXProject "Custom Card" */ = {
+		2ADFEB632E57BE35004F75D7 /* Build configuration list for PBXProject "BlurCardApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2ADFEB712E57BE36004F75D7 /* Debug */,
@@ -314,7 +314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2ADFEB732E57BE36004F75D7 /* Build configuration list for PBXNativeTarget "Custom Card" */ = {
+		2ADFEB732E57BE36004F75D7 /* Build configuration list for PBXNativeTarget "BlurCardApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2ADFEB742E57BE36004F75D7 /* Debug */,
